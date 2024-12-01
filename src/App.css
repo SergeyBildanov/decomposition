@@ -73,6 +73,8 @@ body{
   width: 100%;
   box-sizing: border-box;
   border: solid 2px #fc0;
+  background-color: azure;
+  color: black;
   height: 50px
 }
 .under-search{
